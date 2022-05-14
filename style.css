@@ -1,0 +1,40 @@
+
+
+table {
+    background: url(sky.jpg);
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    border-radius: 25px 25px 25px 25px;
+    -webkit-box-shadow: -24px -16px 24px 0px rgba(66, 68, 90, 1);
+    -moz-box-shadow: -24px -16px 24px 0px rgba(66, 68, 90, 1);
+    box-shadow: -24px -16px 24px 0px rgba(66, 68, 90, 1);
+    
+}
+
+.city1 {
+    padding-top: 40px;
+}
+
+a {
+    text-decoration:none !important;
+}
+
+p {
+    margin-left: 5px;
+}
+
+.tableInfo {
+    padding-top: 12px !important;
+}
+
+.fw-bold {
+    font-size: 20px;
+}
+
+th {
+ border-style: none !important;   
+}
+
+
