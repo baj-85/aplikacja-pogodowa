@@ -1,7 +1,7 @@
 # Aplikacja pogodowa.
 
 
->Prosta aplikacja pogodowa która pokazuje aktualną pogodę na podstawie lokalizacji. 
+>Prosta aplikacja pogodowa, która pokazuje aktualną pogodę na podstawie lokalizacji. 
 
 
 
