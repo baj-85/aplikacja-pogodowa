@@ -9,7 +9,7 @@
 
 
 ## Technologie
-* HTML5
+* HTML
 * CSS
 * JavaScript
 * Bootstrap 5
