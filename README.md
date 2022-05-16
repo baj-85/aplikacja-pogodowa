@@ -1,4 +1,4 @@
-# Aplikacja pogodowa.
+# APLIKACJA POGODOWA
 
 
 >Prosta aplikacja pogodowa, która pokazuje aktualną pogodę na podstawie lokalizacji. 
