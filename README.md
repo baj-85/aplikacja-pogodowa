@@ -15,6 +15,7 @@
 * Bootstrap 5
 
 
+
 ## OpenWeather
 >Skorzystano z darmowego API do pobierania danych pogodowych
 https://openweathermap.org/
