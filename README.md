@@ -1,5 +1,7 @@
-# APLIKACJA POGODOWA
 
+ <h1 align="center"> APLIKACJA POGODOWA </h1>
+<br />
+<br />
 
 >Prosta aplikacja pogodowa, która pokazuje aktualną pogodę na podstawie lokalizacji. 
 
